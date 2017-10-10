@@ -2,9 +2,11 @@
 
 #### Never write a PHP namespace declaration again.
 
-The namespace monkey pre-fills all created PHP files in a composer-enabled projects with the namespace declaration and optionally an empty class definition so you don't have to.
+The namespace monkey pre-fills all created PHP files in a Composer-enabled project with a namespace declaration and optionally an empty class definition so you don't have to.
 
 *You can save literally seconds every day thanks to this package.*
+
+![atom-php-namespace-monkey](https://user-images.githubusercontent.com/821582/31397288-e533da76-ade5-11e7-80c5-14e36d5cecf9.gif)
 
 Set up the namespace declaration style and turn the class definitions on and off in the package settings.
 
