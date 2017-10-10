@@ -1,15 +1,13 @@
 {
-    "name": "php-namespace-monkey",
-    "main": "./lib/php-namespace-monkey",
-    "version": "0.0.0",
-    "description": "Never write a PHP namespace declaration again.",
-    "keywords": [
-    ],
-    "repository": "https://github.com/underground-works/atom-php-namespace-monkey",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {
-    }
+  "name": "php-namespace-monkey",
+  "main": "./lib/php-namespace-monkey",
+  "version": "0.1.0",
+  "description": "Never write a PHP namespace declaration again.",
+  "keywords": [],
+  "repository": "https://github.com/underground-works/atom-php-namespace-monkey",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
