@@ -1,7 +1,7 @@
 {
   "name": "php-namespace-monkey",
   "main": "./lib/php-namespace-monkey",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Never write a PHP namespace declaration again.",
   "keywords": [],
   "repository": "https://github.com/underground-works/atom-php-namespace-monkey",
