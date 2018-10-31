@@ -1,3 +1,8 @@
+0.2.1
+
+- fixed namespace containing extra backslash when authoload paths do not end with backslash (thanks lsalomon)
+- fixed possible crash with unreadable files
+
 0.2.0
 
 - fixed crash when project contains composer.json without autoload section
